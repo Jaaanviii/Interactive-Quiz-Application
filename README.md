@@ -48,6 +48,13 @@ Understood the basics of user interaction in front-end apps
 
 Applied CSS for responsive design without frameworks
 
+OUTPUT: 
+
+<img width="1685" height="889" alt="Image" src="https://github.com/user-attachments/assets/13cdb949-4ef9-4087-89b9-4dbecbb136fd" />
+<img width="1686" height="839" alt="Image" src="https://github.com/user-attachments/assets/9b5b08d4-b606-4127-b630-84308ea590d7" />
+<img width="1637" height="803" alt="Image" src="https://github.com/user-attachments/assets/feb8bd6d-f377-4e04-a7f0-df8a955f4203" />
+
+
 
 
 
